@@ -45,4 +45,4 @@ I'm a Software Engineer at JLR, currently on the DevOps team. I'm passionate abo
 
 ## 💬 Let's Chat
 
-If you want to work on something together or just want to say hi, feel free to reach out. I'm always down to work on fun projects and learning new skills.
+If you want to work on something together or just want to say hi, feel free to reach out, I'm always down to work on fun projects and learn new skills.
